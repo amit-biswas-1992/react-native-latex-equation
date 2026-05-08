@@ -1,6 +1,6 @@
 {
   "name": "react-native-latex-equation",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Render inline LaTeX math ($...$ and $$...$$) inside React Native / Expo Text components, including mid-sentence equations mixed with regular text. Single-WebView KaTeX renderer with a fast path for plain-text strings.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
